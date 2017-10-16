@@ -121,6 +121,7 @@ From the preferences tab, uncheck any types of webpages that you don't want Bear
 - [PhishTracks](http://PhishTracks.com)
 - [Plex Web](https://app.plex.tv)
 - [Pocket Casts](https://play.pocketcasts.com/)
+- [Pocket Casts (beta player)](https://playbeta.pocketcasts.com/)
 - [ProductHunt](https://www.producthunt.com/podcasts/)
 - [Qobuz](http://player.qobuz.com/)
 - [Radio Swiss Jazz](http://www.radioswissjazz.ch/)
