@@ -13,10 +13,10 @@ method: "predicateOnTab",
 format:"%K LIKE[c] '*play*.pocketcasts.com*'",
 args: ["URL"]
 },
-toggle: function () {document.querySelector('div.animated-play-button').click()},
-next: function () {document.querySelector('div.skip_forward_button').click()},
-previous: function () {document.querySelector('div.skip_back_button').click()},
-pause: function () {document.querySelector('div.pause_button').click()},
+toggle: function () {document.querySelector('button.animated-play-button').click()},
+next: function () {document.querySelector('button.skip_forward_button').click()},
+previous: function () {document.querySelector('button.skip_back_button').click()},
+pause: function () {document.querySelector('button.pause_button').click()},
 trackInfo: function () {
     return {
         'track': document.querySelector('div.controls div.episode-title').innerText,
